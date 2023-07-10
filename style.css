@@ -75,27 +75,33 @@ header h1 {
 .all-flowers {
     display: flex;
     width: 1440px;
-  
+    margin: auto;
+
 }
 
 .flower-trees {
     background-color: #A7216226;
     border-radius: 300px 300px 0px 0px;
-    
+
 }
 
-.flower-one {
-   
-}
-.Same-property{
+.flower-one {}
+
+.Same-property {
     text-align: center;
 }
 
 /* Services Section */
-.services{
-display: flex;
-width: 500px;
-margin: auto;
+.services {
+    text-align: center;
+    display: flex;
+    width: 1440px;
+    height: 320px;
+    margin: auto;
+    background-color: #2727270D;
 
+}
 
+.services div {
+    margin: auto;
 }
