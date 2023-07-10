@@ -3,6 +3,7 @@ body {
     font-family: 'Lato', sans-serif;
 }
 
+/* header section design start */
 .header-design {
 
     background-color: #E554731A;
@@ -42,6 +43,59 @@ header h1 {
     background: #E55473;
     color: #ffff;
     border: 0;
-    padding:20px 43px ;
-    font-weight:700;
+    padding: 20px 43px;
+    font-weight: 700;
+}
+
+/* header section design End */
+
+/* Main sections written part start*/
+.bonus-section {
+    text-align: center;
+    width: 500px;
+    height: auto;
+    margin: auto;
+}
+
+.bonus-section h1 {
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+    margin-bottom: 20px;
+}
+
+.bonus-section p {
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+}
+
+/* Main sections written part End*/
+
+/* Main sections flowers part start*/
+.all-flowers {
+    display: flex;
+    width: 1440px;
+  
+}
+
+.flower-trees {
+    background-color: #A7216226;
+    border-radius: 300px 300px 0px 0px;
+    
+}
+
+.flower-one {
+   
+}
+.Same-property{
+    text-align: center;
+}
+
+/* Services Section */
+.services{
+display: flex;
+width: 500px;
+margin: auto;
+
+
 }
