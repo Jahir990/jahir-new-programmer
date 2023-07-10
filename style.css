@@ -24,7 +24,7 @@ body {
     margin-left: 50px;
 }
 
-header p {
+ p{
     color: rgba(39, 39, 39, 0.60);
     font-size: 18px;
     font-weight: 400;
@@ -43,8 +43,8 @@ header h1 {
     background: #E55473;
     color: #ffff;
     border: 0;
-    padding: 20px 43px;
-    font-weight: 700;
+    padding: 18px 40px;
+    font-weight: 800;
 }
 
 /* header section design End */
@@ -56,18 +56,19 @@ header h1 {
     height: auto;
     margin: auto;
 }
-
-.bonus-section h1 {
+/* This is for all heading */
+.header-title{
     color: #272727;
     font-size: 40px;
     font-weight: 800;
     margin-bottom: 20px;
 }
 
-.bonus-section p {
+
+/* .bonus-section p {
     color: rgba(39, 39, 39, 0.60);
     font-size: 18px;
-}
+} */
 
 /* Main sections written part End*/
 
@@ -91,7 +92,7 @@ header h1 {
     text-align: center;
 }
 
-/* Services Section */
+/* Services Section Start*/
 .services {
     text-align: center;
     display: flex;
@@ -104,4 +105,67 @@ header h1 {
 
 .services div {
     margin: auto;
+}
+
+/* Services Section End*/
+
+/* Hot deal section start */
+.hot-deal {
+    background-color: #E554730D;
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 100px;
+
+}
+
+.off {
+    color: #E55473;
+}
+
+.hot-deal-heading {
+    width: 594px;
+    height: auto;
+    text-align: center;
+    margin-top: 150px;
+}
+
+/* .hot-deal-heading h1 {
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+
+} */
+
+/* .hot-deal-heading p {
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    line-height: 30px;
+} */
+
+/* instagram and flowers section */
+.flower-for-instagram{
+    display: flex;
+    width: 1440px;
+    margin: auto;
+}
+.flower-for-instagram img{
+    margin-right: 24px;
+    margin-top: 25px;
+}
+/* Get the latest Deals Section */
+.latest-deals{
+    width: 1440px;
+    height:449px;
+    margin:50px auto;
+    background-image: url('Flower Asset/Rectangle\ 9.png');
+    text-align: center;
+  position: relative;
+   
+
+}
+.subscribes{
+    position:absolute;
+    margin: 150px 500px;
+    color: rgb(48, 30, 94);
+  
 }
