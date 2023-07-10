@@ -169,3 +169,14 @@ header h1 {
     color: rgb(48, 30, 94);
   
 }
+/* footer Section */
+.footer{
+    background-color: #111010;
+    height: 449px;
+    width: auto;
+    
+}
+.footer-text{
+    color: white;
+    text-align: center;
+}
