@@ -81,12 +81,33 @@ header h1 {
 }
 
 .flower-trees {
-    background-color: #A7216226;
     border-radius: 300px 300px 0px 0px;
+    width: 464px;
+    height: 538px;
+    
+}
+.all-flowers img{
+    margin: 20px;
+}
+.flower-margin-set{
+    
 
 }
 
-.flower-one {}
+.flower-one {
+
+    background-color: #A7216226;
+    margin-right: 20px;
+}
+.flower-two {
+
+    background-color: #A7216226;
+    margin-right: 20px;
+}
+.flower-three {
+    background-color: #A7216226;
+    margin-right: 20px;
+}
 
 .Same-property {
     text-align: center;
@@ -180,7 +201,7 @@ input[type=text]{
 .footer{
     background-color: #111010;
     height: 449px;
-   width: auto;
+   width: auto ;
     
 }
 
