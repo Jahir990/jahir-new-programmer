@@ -87,12 +87,25 @@ header h1 {
     
 }
 .all-flowers img{
-    margin: 20px;
-}
-.flower-margin-set{
     
-
 }
+.flower-margin-set-one{
+    
+    position:relative;
+    top: 110px
+}
+.flower-margin-set-two{
+    
+    position:relative;
+    top: 110px
+}
+
+.flower-margin-set-three{
+    
+    position:relative;
+    top: 67px
+}
+
 
 .flower-one {
 
