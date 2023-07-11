@@ -171,8 +171,8 @@ header h1 {
   
 }
 input[type=text]{
-    margin: 18px 0px;
-    padding: 18px 5px;
+    margin: 18px 4px;
+    padding: 18px 8px;
     width: 500px;
     border: none;
 }
@@ -180,13 +180,8 @@ input[type=text]{
 .footer{
     background-color: #111010;
     height: 449px;
-    width: auto;
+   width: auto;
     
-}
-.footer-text{
-   
-    
-   
 }
 
 .footer-test{
